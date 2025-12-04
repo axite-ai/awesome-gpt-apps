@@ -14,21 +14,19 @@ A curated list of the best resources for building GPT apps, Model Context Protoc
 - **OpenAI Apps SDK (official)** – https://developers.openai.com/apps-sdk/
 
 ## 🔌 GPT Apps (Open Source)
-- **Your App** – A GPT-powered app demonstrating MCP integration and real-world workflows.
-  https://github.com/openai/your-app
+- **AskMyMoney** – A GPT-powered app demonstrating MCP integration and real-world workflows.
+  https://github.com/axite-ai/askmymoney-mcp
 - *(submit your project via PR)*
 
-## 🛠️ Developer Utilities
-- **OpenAI Node SDK** – Official SDK for GPT-4.1, GPT-5.1, structured responses, and tools.
-  https://github.com/openai/openai-node
-- **OpenAI Python SDK** – Python interface for building GPT-driven tools and servers.
-  https://github.com/openai/openai-python
+## 📦 Apps SDK Resources
+- **Apps SDK Docs** – Patterns for capabilities, context, UI surfaces, and tool wiring.
+  https://developers.openai.com/apps-sdk/
+- **Apps SDK UI** – Component primitives for building ChatGPT app surfaces. *(https://github.com/openai/apps-sdk-ui)*
+- **Apps SDK Example Repos** – Reference implementations and starter flows. *(https://github.com/openai/openai-apps-sdk-examples)*
 
 ## 📚 Learning Resources
 - **MCP Spec** – Protocol docs and reference implementations.
   https://github.com/modelcontextprotocol/specification
-- **Apps SDK Guides** – Patterns for capabilities, context, and tool wiring.
-  https://developers.openai.com/apps-sdk/getting-started
 
 ---
 
