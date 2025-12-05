@@ -1,42 +1,42 @@
-<div align="center">
-  <h1>Awesome GPT Apps & MCP Ecosystem</h1>
-  <p>
-    <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a>
-  </p>
-  <p>A curated list of the best resources for building GPT apps, Model Context Protocol (MCP) servers, and ChatGPT Apps SDK integrations.</p>
-  <br>
-  <p>
-    <sub>Built by <a href="https://axite.ai">Axite</a> — contributions welcome!</sub>
-  </p>
-  <br>
-  <hr>
-  <br>
-</div>
+# Awesome GPT Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## 🚀 Starter Templates
-- [Axite MCP Starter](https://github.com/axite-labs/mcp-starter) - Production-ready template for building MCP servers plus Apps SDK add-ons.
-  - *(placeholder for future community templates)*
+> A curated list of open source GPT applications built with Model Context Protocol (MCP) and ChatGPT Apps SDK.
 
-## 🧩 MCP SDKs
-- [Model Context Protocol SDKs (official)](https://modelcontextprotocol.io/docs/sdk) - Reference SDKs for MCP servers and clients.
-- [OpenAI Apps SDK (official)](https://developers.openai.com/apps-sdk/) - Build ChatGPT apps with capabilities, context, UI, and tools.
+**Want to build your own?** Start with the [Axite MCP Starter](https://github.com/axite-labs/mcp-starter) — a production-ready template for MCP servers and Apps SDK integrations.
 
-## 📦 Apps SDK Resources
-- [Apps SDK Docs](https://developers.openai.com/apps-sdk/) - Patterns for capabilities, context, UI surfaces, and tool wiring.
-- [Apps SDK UI](https://github.com/openai/apps-sdk-ui) - Component primitives for building ChatGPT app surfaces.
-- [Apps SDK Example Repos](https://github.com/openai/openai-apps-sdk-examples) - Reference implementations and starter flows.
+## Contents
 
-## 🔌 GPT Apps (Open Source)
-- [AskMyMoney](https://github.com/axite-ai/askmymoney-mcp) - GPT-powered finance assistant showcasing MCP integration and real-world workflows.
-  - *(submit your project via PR)*
+- [Apps](#apps)
+- [Resources](#resources)
+- [Contributing](#contributing)
 
-## 📚 Learning Resources
-- [MCP Spec](https://github.com/modelcontextprotocol/specification) - Protocol docs, reference implementations, and FAQs.
+## Apps
+
+- [AskMyMoney](https://github.com/axite-ai/askmymoney-mcp) - Finance assistant with MCP integration and real-world workflows.
+
+*Have a GPT app to share? Submit a PR!*
+
+## Resources
+
+### Official Documentation
+- [Apps SDK Documentation](https://developers.openai.com/apps-sdk/) - Official guide for building ChatGPT apps.
+- [MCP Specification](https://github.com/modelcontextprotocol/specification) - Protocol documentation and reference implementations.
+
+### SDKs
+- [Model Context Protocol SDKs](https://modelcontextprotocol.io/docs/sdk) - Official SDKs for building MCP servers and clients.
+- [OpenAI Apps SDK](https://developers.openai.com/apps-sdk/) - SDK for building ChatGPT apps with capabilities, context, and UI.
+
+### Examples & Components
+- [Apps SDK UI](https://github.com/openai/apps-sdk-ui) - Component primitives for building ChatGPT app interfaces.
+- [Apps SDK Examples](https://github.com/openai/openai-apps-sdk-examples) - Reference implementations and starter flows.
+
+## Contributing
+
+Contributions welcome! Please ensure submissions are:
+- High-quality and actively maintained
+- Relevant to GPT apps and MCP development
+- Include a clear, concise description
 
 ---
 
-## 🤝 Contributing
-PRs welcome — keep entries high-quality, maintained, and relevant. Include a short description, link, and why it is useful for GPT + MCP builders.
-
-## ⭐ Why This Exists
-To provide developers with a clean, curated jumping-off point for the rapidly growing GPT + MCP ecosystem.
+<sub>Built by [Axite](https://axite.ai)</sub>
