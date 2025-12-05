@@ -2,7 +2,7 @@
 
 > A curated list of open source GPT applications built with Model Context Protocol (MCP) and ChatGPT Apps SDK.
 
-**Want to build your own?** Start with the [GPT App Starter](https://github.com/axite-ai/apps-sdk-template) — a production-ready template for MCP servers and Apps SDK integrations.
+**Want to build your own?** Start with the [GPT App Starter](https://github.com/axite-ai/apps-sdk-template)
 
 ## Contents
 
