@@ -13,6 +13,7 @@
 ## Apps
 
 - [AskMyMoney](https://github.com/axite-ai/askmymoney-mcp) - Finance assistant with MCP integration and real-world workflows.
+- [Magic Hour AI](https://github.com/magichourhq/magic-hour-mcp) - Create and edit images and videos, and generate audio in the [ChatGPT plugin](https://chatgpt.com/plugins/plugin_asdk_app_6abd6b5b6494819188475d7f1ff8204c).
 
 *Have a GPT app to share? Submit a PR!*
 
